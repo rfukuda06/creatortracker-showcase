@@ -4,7 +4,7 @@
 
 <p align="center"><img src="images/hero-dashboard.png" alt="Dashboard" width="1000"/></p>
 
-CreatorTracker is a multi-platform creator analytics platform that tracks the same creators across **TikTok, YouTube Shorts, Facebook Reels, and Instagram Reels** — pulling performance data on a fast cadence, scoring virality and conversion, surfacing breakout videos as they're happening, and operationalizing the contracts, payments, and discovery pipelines around them. It is a real production SaaS used daily by the team at [Versa](https://heyselena.com).
+CreatorTracker is a multi-platform creator analytics platform that tracks the same creators across **TikTok, YouTube Shorts, Facebook Reels, and Instagram Reels** — pulling performance data on a fast cadence, scoring virality and conversion, surfacing breakout videos as they're happening, and operationalizing the contracts, payments, and discovery pipelines around them. It is a real production SaaS used daily by the team at Versa.
 
 > **Impact:** powered influencer marketing that helped acquire **300,000+ users with zero paid ad spend.**
 
@@ -39,7 +39,7 @@ I have since handed the product off and no longer maintain it. The following cap
 
 ## Dashboard
 
-The agency's homepage. Six roster-wide KPIs — **creators, followers, videos, views, likes, comments** — alongside a **Views by Country** heatmap, with **My Team / Competition / Prospects** tabs for switching roster scope.
+The agency's homepage. Six roster-wide KPIs alongside a **Views by Country** heatmap, with **My Team / Competition / Prospects** tabs for switching roster scope.
 
 <img src="images/dashboard-stats-heatmap.png" alt="Dashboard top section: six roster-wide KPIs, platform breakdown, and Views by Country heatmap" width="880"/>
 
