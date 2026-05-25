@@ -20,7 +20,7 @@ I have since handed the product off and no longer maintain it. The following cap
 
 ## Features
 
-- **Multi-platform tracking** — same creators across TikTok, YouTube Shorts, Facebook Reels, and Instagram Reels in a single dashboard
+- **Live Multi-platform tracking** — same creators across TikTok, YouTube Shorts, Facebook Reels, and Instagram Reels in a single dashboard
 - **Virality scoring** — relative-velocity classifier benchmarking every video against the creator's own median, six tiers, peak-locking
 - **Conversion scoring** — per-creator percentile-based tiers, gated by virality
 - **Deeplinks** — multi-slug attribution per creator with clicks-over-time, hourly, and geographic breakdowns
@@ -59,7 +59,7 @@ The **Creator Summaries** table — every creator's current state at a glance, w
 
 ## Creator pages
 
-Single-creator drill-in. Per-platform metric cards, **creator tags** (used to flag promoted videos under the contract), and a **Payment & Schedule** panel reconciling videos shipped vs. contract cadence.
+Single-creator drill-in. Per-platform metric cards, **creator tags** used to flag promoted videos, and a **Payment & Schedule** panel reconciling videos shipped vs. contract cadence.
 
 <img src="images/creator-profile-payment.png" alt="Creator profile header with per-platform cards, tags, and the live Payment & Schedule reconciliation panel showing pace vs. target per platform" width="880"/>
 
@@ -71,7 +71,7 @@ Every tracked video for the creator, refreshed hourly with per-row virality and 
 
 <img src="images/creator-videos.png" alt="Creator videos table with virality/conversion tiers per row and an expandable per-video stats-over-time chart" width="880"/>
 
-Lower on the page: per-creator **Deeplinks** (multi-slug, per-day click bars), **Contact** channels, and **Promos** configuration (manual override + auto-flag hashtag patterns).
+Lower on the page: per-creator **Deeplinks**, **Contact** channels, and **Promos** configuration (manual override + auto-flag hashtag patterns).
 
 <img src="images/creator-deeplinks-promo.png" alt="Per-creator deeplinks stacked bar chart, contact methods, and promo hashtag configuration" width="880"/>
 
@@ -79,7 +79,7 @@ Lower on the page: per-creator **Deeplinks** (multi-slug, per-day click bars), *
 
 ## Payments
 
-Agency-wide payments view. Total spend, monthly rate, on-track-vs-behind status, and a **Salary Composition** bar breaking monthly spend by creator.
+Agency-wide payments view. Total spend, monthly rate, on-track-vs-behind status, and a **Salary Composition** bar.
 
 <img src="images/payments-overview.png" alt="Payments overview: total spend, monthly rate, on-track vs. behind, and per-creator salary composition" width="880"/>
 
@@ -91,7 +91,7 @@ Every contract in one table — type, rate, spend, cost per click, and behind-sc
 
 ## Discover
 
-Autonomous creator-acquisition. Candidates mined from **tag/keyword seeds and related channels** of the existing roster, scored on engagement and reach, surfaced for one-click add or dismiss.
+Autonomous creator-acquisition. Candidates mined from **tag/keyword seeds and related channels** of the existing roster, scored on engagement and reach.
 
 <img src="images/discovery.png" alt="Discovery page with seed rotation chips and per-candidate signals — subscribers, avg views, engagement rate, recent video bars, top video" width="880"/>
 
