@@ -67,7 +67,7 @@ Per-creator views and followers over time, with **Ask AI** for natural-language 
 
 <img src="images/creator-graphs-ask-ai.png" alt="Per-creator views and followers graphs with the Ask AI chat panel below for in-context Q&A" width="880"/>
 
-Every tracked video for the creator, with per-row virality and conversion tiers and an expandable **Stats Over Time** chart.
+Every tracked video for the creator, refreshed hourly with per-row virality and conversion tiers and an expandable **Stats Over Time** chart.
 
 <img src="images/creator-videos.png" alt="Creator videos table with virality/conversion tiers per row and an expandable per-video stats-over-time chart" width="880"/>
 
