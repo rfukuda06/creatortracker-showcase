@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+*.pyc
+__pycache__/
+node_modules/
+.vscode/
+.idea/
+
+# Private side of the case study — not for public display.
+private/
