@@ -4,7 +4,7 @@
 
 <p align="center"><img src="images/hero-dashboard.png" alt="Dashboard" width="1000"/></p>
 
-CreatorTracker is a multi-platform creator analytics platform that tracks the same creators across **TikTok, YouTube Shorts, Facebook Reels, and Instagram Reels** — pulling performance data on a fast cadence, scoring virality and conversion, surfacing breakout videos as they're happening, and operationalizing the contracts, payments, and discovery pipelines around them. It is a real production SaaS used daily by the team at Versa.
+CreatorTracker is a multi-platform creator analytics platform that tracks the same creators across **TikTok, YouTube Shorts, Facebook Reels, and Instagram Reels** — pulling data with hourly refresh waves, scoring virality and conversion, surfacing breakout videos as they're happening, and operationalizing the contracts, payments, and discovery pipelines around them. It is a production SaaS used daily by the team at Versa.
 
 > **Impact:** powered influencer marketing that helped acquire **300,000+ users with zero paid ad spend.**
 
